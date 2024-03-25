@@ -149,7 +149,7 @@ a {
     display: flex;
     flex-direction: column;
     margin: auto;
-    margin-bottom: 5vh;
+    margin-bottom: 10vh;
 }
 #email{
     width: 80%;
@@ -180,4 +180,60 @@ a {
     width: 30%; /* Ajuste o tamanho conforme necessário */
     text-align: center;
     margin-bottom: 3vh;
+}
+#maps{
+    width: 100vw;
+    height: 40vh;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+#footer-contato{
+    background-color: #195cb4;
+    width: 100vw;
+    height: 30vh;
+}
+#logo-footer{
+    display: flex;
+    gap: 2vw;
+    font-size: 2vw;
+    padding-top: 6%;
+    padding-left: 3%;
+    font-weight: bold;
+    position: absolute;
+}
+#text-negrito{
+    color: #dcdcdc;
+    font-weight: bold;
+    font-size: 20px;
+}
+#footer-list{
+    display: flex;
+    gap: 2%;
+}
+#footer-ul{
+    float: right;
+    width: 35vw;
+    padding-top: 2.5%;
+}
+#text-footer{
+    padding-top: 0.5%;
+    color: #dcdcdc;
+    font-weight: 500;
+}
+#footer-logodogs{
+    background-color: #0c3464;
+    width: 100vw;
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+}
+#logo-oficial{
+    width: 8%;
+    padding: 1%;
+}
+#text-logodogs{
+    padding-top: 0.5%;
+    color: #dcdcdc;
+    font-weight: 500;
+    padding-top: 3%;
 }
