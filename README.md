@@ -1,4 +1,6 @@
-# underdogs_site
+# VELOZ FRETES - PROPOSTA DE SITE
+
+
 Trabalho de faculdade da matéria front-end frameworks
 """
 
@@ -289,4 +291,18 @@ e o texto
 
     e finalizei a construção do site.
     
+
+### CRIANDO O JS DO SITE.
+
+25/03/2024 14H 25m Comecei a criar o carrossel e implementei o botao flutuante do Whatsapp.
+
+25/03/2024 17H 30m Tornei a passagem das imagens do carrossel para que fique lenta.
+
+26/03/2024 10H 43m Adicionei o botao de atalho que aparece apos rolar a pagina e ao ser clicado mostra as sessoes que podem ser acessadas mais rapidamente.
+
+26/03/2024 14 35m Corrigi a distancia que o botao de atalho deve aparecer e desaparecer.
+
+26/03/2024 15H 10m Atualizei a imagem e redirecionamento do botao de whatsapp.
+
+26/03/2024 15H 40m Coloquei uma animaçao ao clicar no botao de whatsapp.
 
